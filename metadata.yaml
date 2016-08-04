@@ -1,0 +1,32 @@
+_repo: Russian-Roulette--Russia-s-Economy-in-Putin-s-Era_4779
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaknin, Samuel
+    aliases:
+    - Vaknin, Shmuel
+    - Vaknin, Sam
+    birthdate: 1961
+    gutenberg_agent_id: '2702'
+    url: http://www.gutenberg.org/2009/agents/2702
+    wikipedia: http://en.wikipedia.org/wiki/Sam_Vaknin
+  editor:
+    agent_name: Rangelovska, Lidija
+    gutenberg_agent_id: '24903'
+    url: http://www.gutenberg.org/2009/agents/24903
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4779'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Russia (Federation) -- Politics and government -- 1991-'
+- !lcc 'DK'
+- !lcsh 'Putin, Vladimir Vladimirovich, 1952-'
+- GITenberg
+title: 'Russian Roulette: Russia''s Economy in Putin''s Era'
+url: http://www.gutenberg.org/ebooks/4779
